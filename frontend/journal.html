@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="navbar.css">
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <nav class="pixel-nav">
+  <div class="nav-links">
+    <a href="index.html" class="nav-link">Home</a>
+    <a href="journal.html" class="nav-link active">Journal</a>
+    <a href="calendar.html" class="nav-link">Calendar</a>
+    <a href="stats.html" class="nav-link">Stats</a>
+  </div>
+</nav>
+<section class="journal-wrapper">
+ <div class="pixel-card">
+    <h1 class="pixel-title">PIXELATED</h1>
+    <p class="tagline">a pixel a day</p>
+
+    <div class="date" id="today"></div>
+
+    <textarea id="entry" placeholder="Write your thoughts here..."></textarea>
+
+    <button class="pixel-btn" onclick="submitEntry()">SAVE</button>
+
+    <div id="result" class="mood-box"></div>
+  </div>
+</section>
+  <script src="script.js"></script>
+</body>
+</html>
