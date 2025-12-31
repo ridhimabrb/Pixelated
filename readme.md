@@ -5,6 +5,7 @@ Each journal entry is analyzed using **Hugging Face NLP model for sentiment and 
 
 Over time, these pixels form patterns: emotional rhythms, highs, lows, and trends that words alone can’t show.
 
+#### LIVE @ ridhimabrb.github.io/Pixelated/
 ---
 
 ## Idea & Motivation
