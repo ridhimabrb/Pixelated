@@ -1,7 +1,7 @@
-# 🟪 PIXELATED  
+# PIXELATED  
 
 Pixelated is a **data-driven emotion journal** that transforms daily thoughts into a visual memory archive.  
-Each journal entry is analyzed using **AI-based sentiment and emotion analysis**, and every day of the year becomes a **pixel** — colored emotion-wise.
+Each journal entry is analyzed using **Hugging Face NLP models for sentiment and emotion analysis**, and every day of the year becomes a **pixel** ,colored emotion-wise.
 
 Over time, these pixels form patterns: emotional rhythms, highs, lows, and trends that words alone can’t show.
 
@@ -21,6 +21,9 @@ At its core, Pixelated is both:
 The goal is to build a **living archive for 2026**, one pixel at a time.
 
 ---
+<img width="250" height="320" alt="image" src="https://github.com/user-attachments/assets/dc8a0cc5-865e-4203-b1be-5f1f4af98716" />
+<img width="250" height="320" alt="image" src="https://github.com/user-attachments/assets/82c02e38-89f1-420e-842c-da4530e904a3" />
+<img width="250" height="320" alt="image" src="https://github.com/user-attachments/assets/7ec33d3b-5c1f-4e9d-93cd-9f9be14e2b6a" />
 
 ## How It Works
 
@@ -43,7 +46,7 @@ The goal is to build a **living archive for 2026**, one pixel at a time.
 - Emotion analysis happens automatically
 - Entries are stored with metadata (date, emotion, intensity)
 
-### 🗓 Calendar
+### Calendar
 - Full-year pixel grid
 - Each square represents one day
 - Only days with entries are colored
