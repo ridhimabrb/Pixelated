@@ -1,7 +1,7 @@
 # PIXELATED  
 
 Pixelated is a **data-driven emotion journal** that transforms daily thoughts into a visual memory archive.  
-Each journal entry is analyzed using **Hugging Face NLP models for sentiment and emotion analysis**, and every day of the year becomes a **pixel** ,colored emotion-wise.
+Each journal entry is analyzed using **Hugging Face NLP model for sentiment and emotion analysis**, and every day of the year becomes a **pixel** ,colored emotion-wise.
 
 Over time, these pixels form patterns: emotional rhythms, highs, lows, and trends that words alone can’t show.
 
